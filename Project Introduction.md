@@ -16,4 +16,4 @@ The following questions were answered in my data analysis:
 <br/>Bonus Q2) Store 2238 (Adventureland Inn at 3200 Adventureland Dr) sold $883.24 in April and $27,526.38 in May, for a 3017% growth rate. That was the highest percentage month-on-month growth rate. Create a query that shows this and the next 9 highest after that.
 <br/>Bonus Q3) The store_address field in the stores table actually contains three rows of text. Quite often the latitude and longitude are in the last line of text. Create a query that shows the geo-locatable stores in latitude order (i.e. show the stores from the most northerly to the most southerly).
 
-The data is accessed on General Assembly Servers and queried using PostgreSQL. The dataset is uploaded on the repository for easy reference. Due to number of records exceeding limit of Excel, I only included alcohol sales data for the month of Jan 2014.
+The data is accessed from General Assembly Servers and queried using PostgreSQL. The dataset is uploaded on the repository for easy reference. Due to number of records exceeding limit of Excel, I only included alcohol sales data for the month of Jan 2014.
