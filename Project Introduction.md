@@ -10,7 +10,7 @@ The following questions were answered in my data analysis:
 <br/>7) Which county sold the most amount of vodka during February 2014?
 <br/>8) Which counties were in the top 10 counties for vodka sales in any month in 2014?
 <br/>9) Create a report that shows how many times a county appeared in the “top 10 counties for vodka sales in a month” list over the course of 2014.
-<br/>10) What is the trend of sales by month? Break up variables such as bottle_price or liter_size into categories (for example: cheap, medium, or expensive).
+<br/>10) What is the trend of sales by month?
 <br/>11b) How many stores have more than $2,000,000 in total sales?
 <br/>Bonus Q1) The category listed in the sales table doesn’t always match up with the category in the products table. How many times has this happened, and can you find any patterns to it?
 <br/>Bonus Q2) Store 2238 (Adventureland Inn at 3200 Adventureland Dr) sold $883.24 in April and $27,526.38 in May, for a 3017% growth rate. That was the highest percentage month-on-month growth rate. Create a query that shows this and the next 9 highest after that.
