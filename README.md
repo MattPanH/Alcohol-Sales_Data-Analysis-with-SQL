@@ -1,7 +1,9 @@
+<h2> Introduction </h2>
 For this project, data analysis is carried out on a data set of alcohol sales in the state of Iowa.
-
-The following questions were answered in my data analysis:
-<br/>1) How many total products are in the Products table?
+<br>
+<br>
+<h2> Data Analytics Questions </h2>
+1) How many total products are in the Products table?
 <br/>2) Who are the top most diverse vendors? How many different products do they have?
 <br/>3) Which products sell the best by total number of unit sales? 
 <br/>4) Which products sell the best by total dollar value of sales?
@@ -15,5 +17,7 @@ The following questions were answered in my data analysis:
 <br/>Bonus Q1) The category listed in the sales table doesn’t always match up with the category in the products table. How many times has this happened, and can you find any patterns to it?
 <br/>Bonus Q2) Store 2238 (Adventureland Inn at 3200 Adventureland Dr) sold $883.24 in April and $27,526.38 in May, for a 3017% growth rate. That was the highest percentage month-on-month growth rate. Create a query that shows this and the next 9 highest after that.
 <br/>Bonus Q3) The store_address field in the stores table actually contains three rows of text. Quite often the latitude and longitude are in the last line of text. Create a query that shows the geo-locatable stores in latitude order (i.e. show the stores from the most northerly to the most southerly).
-
+<br>
+<br>
+<h2> Data Sources </h2>
 The data is accessed from General Assembly Servers and queried using PostgreSQL. The dataset is uploaded on the repository for easy reference. Due to number of records exceeding limit of Excel, I only included alcohol sales data for the month of Jan 2014.
